@@ -1,0 +1,3 @@
+[submodule "lib/TSMap"]
+	path = lib/TSMap
+	url = https://github.com/Sembl4/TSMap.git
